@@ -1,2 +1,3 @@
-### 논문
-- [인공지능을 활용한 한국어 지화 인식 및 교육 서비스](./인공지능을 활용한 한국어 지화 인식 및 교육 서비스.hwp)
+<img src="https://github.com/dahyeon777/co-sign/assets/168621121/1093dceb-d63f-4b67-87cd-0e0e05c2dc72" alt="main">
+
+
